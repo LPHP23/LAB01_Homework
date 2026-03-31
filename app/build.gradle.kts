@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace = "com.example.lab01_homework"
-    compileSdk = 35
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.lab01_homework"
         minSdk = 24
-        targetSdk = 35
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 
